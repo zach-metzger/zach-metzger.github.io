@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Medill School of Journalism - Northwestern University
   <br><br>
+  <a href="mailto:zmetzger11@gmail.com">zmetzger11@gmail.com</a>
+  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
