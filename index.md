@@ -4,8 +4,8 @@
 
 ### Mapping the State of Local News 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[State of Local News Project](/sample_page)
+<img src="Mlp4L-how-many-news-outlets-are-near-you-.png?raw=true"/>
 
 ### Category Name 2
 
