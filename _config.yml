@@ -1,11 +1,10 @@
 title: Zach Metzger # your name (or website title) here
 logo: "images/headshot_2021.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Senior Database Manager 
   <br><br>
-  Second description 
+  Medill School of Journalism 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
