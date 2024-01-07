@@ -8,6 +8,7 @@
 <img src="images/MIp4L-how-many-news-outlets-are-near-you-.png"/>
 
 [Forecasting Future News Deserts, with Malthouse et al.](https://localnewsinitiative.northwestern.edu/assets/forecasting_future_news_deserts_malthouse_et_al.pdf)
+<img src="images/histogram.PNG"/>
 
 ---
 
