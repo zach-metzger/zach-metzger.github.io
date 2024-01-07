@@ -4,16 +4,12 @@
 
 ### Mapping the State of Local News 
 
-[State of Local News Project](/sample_page)
+[State of Local News Project](https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2023/)
 <img src="images/MIp4L-how-many-news-outlets-are-near-you-.png"/>
 
-### Category Name 2
+### Visualizing Public Radio Coverage
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Public Radio Accessibilty](http://example.com/)
 
 ---
 
